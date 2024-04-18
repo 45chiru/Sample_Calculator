@@ -1,1 +1,1 @@
-# React_note
+# Sample Calculator
